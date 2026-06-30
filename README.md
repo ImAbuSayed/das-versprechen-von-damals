@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/das-versprechen-von-damals/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Das Versprechen von damals](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-versprechen-von-damals/) |
+| **Get License** | [Commercial Licensing for Das Versprechen von damals](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-versprechen-von-damals/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Roll' im mattschwarzen Benz, die Skyline im Blick
+> Shawty, steig in den Wagen, es gibt kein Zurück
+> Dein Parfüm in der Luft macht mich loco heut Nacht
+> Ich hab' nur auf genau diesen Moment gewacht
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
