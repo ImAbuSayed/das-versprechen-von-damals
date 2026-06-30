@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Das Versprechen von damals
+
+This log tracks the cryptographic history and versioning for the song **Das Versprechen von damals** (das-versprechen-von-damals).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T23:44:57.721853 | `v1` | `7adcf0fb788b301f77b01e8e5e1ed0b66d32567e2347206ffd4dc6fc10edd823` | `5589728871bb9a18a3045788900395af1048edc24e0925f26bbb86245be7e297` | `2026-06-30_das-versprechen-von-damals-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
