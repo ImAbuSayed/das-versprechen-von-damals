@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/das-versprechen-von-damals/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Das Versprechen von damals](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-versprechen-von-damals/) |
+| **Get License** | [Request Licensing for Das Versprechen von damals](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/das-versprechen-von-damals/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/4711)
 
 ---
 
